@@ -1,0 +1,5 @@
+2) What was the purpose of developing CSS?
+
+
+       CSS was developed to define the visual appearances of websites. It allows developers to separate the structure and 
+content of a website that was not possible before. 
